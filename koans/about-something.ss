@@ -3,8 +3,5 @@
 	 (import (rnrs))
 
 	 (define (run-about-something)
-	   
-	   ;code
-	   
-	   #t)
+	   (display "Test for about-something completed\n"))
 )
