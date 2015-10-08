@@ -5,6 +5,7 @@
 		(koans about-equal)
 		(koans about-function)
 		(koans about-let)
+		(koans about-condition)
 		;other koans
 )
 
@@ -14,5 +15,6 @@
 (run-about-equal)
 (run-about-function)
 (run-about-let)
+(run-about-condition)
 
 (display "Tests completed")
