@@ -6,6 +6,8 @@
 		(koans about-function)
 		(koans about-let)
 		(koans about-condition)
+		(koans about-iteration)
+		(koans about-continuation)
 		;other koans
 )
 
@@ -16,5 +18,7 @@
 (run-about-function)
 (run-about-let)
 (run-about-condition)
+(run-about-iteration)
+(run-about-continuation)
 
 (display "Tests completed")
