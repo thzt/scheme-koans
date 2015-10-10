@@ -8,6 +8,7 @@
 		(koans about-condition)
 		(koans about-iteration)
 		(koans about-continuation)
+		(koans about-hashtable)
 		;other koans
 )
 
@@ -20,5 +21,6 @@
 (run-about-condition)
 (run-about-iteration)
 (run-about-continuation)
+(run-about-hashtable)
 
 (display "Tests completed")
