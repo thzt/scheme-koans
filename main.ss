@@ -9,6 +9,7 @@
 		(koans about-iteration)
 		(koans about-continuation)
 		(koans about-hashtable)
+		(koans about-macro)
 		;other koans
 )
 
@@ -22,5 +23,6 @@
 (run-about-iteration)
 (run-about-continuation)
 (run-about-hashtable)
+(run-about-macro)
 
 (display "Tests completed")
