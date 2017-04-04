@@ -14,3 +14,16 @@ It is a graceful language in the noisy world.
 However, there are few learning materials.
 
 I hope this repository will be helpful to the beginnners.
+
+## Mac OS
+To run these on Mac OS, you can use [chez scheme](https://github.com/cisco/chezscheme), available via [Homebrew](https://github.com/michaelballantyne/homebrew-chez):
+
+```
+brew install --HEAD michaelballantyne/homebrew-chez/chez-scheme
+```
+
+After which, you can execute the koans via:
+
+```
+chez main.ss
+```
